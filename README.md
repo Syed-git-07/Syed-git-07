@@ -42,12 +42,9 @@ const syed = {
 
 ### `> contribution_activity`
 
-<div align="center">
+### `> contribution_activity`
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Syed-git-07&bg_color=0d1117&color=8b949e&line=2f81f7&point=58a6ff&area=true&area_color=1f6feb&hide_border=true&custom_title=Contribution%20Activity)](https://github.com/Syed-git-07)
-
-</div>
-
+[![GitHub Contributions](https://img.shields.io/badge/View_My_Contributions-238636?style=flat-square&logo=github&logoColor=white)](https://github.com/Syed-git-07#user-activity-overview)
 ---
 
 <div align="center">
